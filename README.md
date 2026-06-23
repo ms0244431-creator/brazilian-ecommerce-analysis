@@ -20,4 +20,4 @@
 * **分期槓桿效應**: 數據呈現顯著的正相關趨勢——期數越長，平均客單價越高。這證實了「分期方案」是提升電商平台高單價商品銷售的重要槓桿。
 
 ## 視覺化結果 (Visualization)
-![AOV Analysis](image_298c58.png)
+![AOV Analysis](Aov%20Analysis.png)
